@@ -11,7 +11,7 @@ Basic testing setup outlined below.
 | Setting | Value |
 | -- | -- |
 | user | mqttguest |
-| password | Aej7Gei{Quae_w6aUSh^aCh9 |
+| password | *contact Trilix for assistance* |
 | host | mqtt-dev.maa.trilix.io |
 | standard port | 1883 |
 | ~~TLS port~~ | ~~8883~~ \* |
